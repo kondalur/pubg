@@ -3,12 +3,4 @@ what about you
 123456
 numbers
 public class SpiralPatternExample1  
-{  
-//defining method to print the spiral pattern or matrix  
-static void printSpiralPattern(int size)  
-{  
-//create two variables row and col to traverse rows and columns  
-int row = 0, col = 0;  
-int boundary = size - 1;  
-int sizeLeft = size - 1;  
-int flag = 1;  
+
